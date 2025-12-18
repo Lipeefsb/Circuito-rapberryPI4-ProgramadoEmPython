@@ -2,7 +2,6 @@ import time
 import random
 import sys
 
-# --- SOLUÇÃO PARA O ERRO DE IMPORT ---
 try:
     import RPi.GPIO as GPIO
     MODO_SIMULACAO = False
